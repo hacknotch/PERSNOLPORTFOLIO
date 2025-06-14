@@ -25,7 +25,7 @@ export default function About() {
           </h2>
           <p className="text-gray-300 text-lg sm:text-xl leading-relaxed mb-6">
             Hi, I'm <span className="text-white font-semibold">Preetam Kulkarni</span> — a
-            <span className="text-cyan-400 font-semibold"> BE CSE student</span> passionate about
+            <span className="text-cyan-400 font-semibold"> B.E CSE student</span> passionate about
             <span className="text-teal-400 font-semibold"> frontend development</span> and{" "}
             <span className="text-purple-400 font-semibold">AI/ML</span>. I enjoy crafting responsive, elegant websites and exploring futuristic tech daily.
           </p>
