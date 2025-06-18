@@ -45,13 +45,11 @@ export default function About() {
 
           {/* Resume Button */}
           <a
-            href="https://docs.google.com/document/d/1jswsuC21hH_yMF-ZPNwCHOQOAHcDeY0f/view"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block bg-gradient-to-r from-primary to-secondary hover:from-secondary hover:to-primary text-white font-bold py-3 px-6 rounded-xl shadow-md transition-all duration-300 hover:scale-105 hover:shadow-cyan-400/50"
-          >
-            📄 View Resume
-          </a>
+          href="#projects"
+          className="inline-block bg-gradient-to-r from-teal-500 to-cyan-500 hover:from-cyan-500 hover:to-teal-500 text-white font-bold py-3 px-6 rounded-xl shadow-lg transition-all duration-300 hover:scale-105 hover:shadow-cyan-400/50"
+        >
+          🚀 RESUME 
+        </a>
         </div>
       </div>
     </section>
