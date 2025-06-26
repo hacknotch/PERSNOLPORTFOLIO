@@ -65,7 +65,7 @@ export default function Projects() {
               <span className="bg-gray-800 text-teal-300 text-xs px-3 py-1 rounded-full">streamlit</span>
             </div>
             <a
-              href="https://github.com/hacknotch/ai-glasses"
+              href="https://github.com/hacknotch/ollama"
               target="_blank"
               rel="noopener noreferrer"
               className="text-cyan-400 hover:underline text-sm"
@@ -90,7 +90,7 @@ export default function Projects() {
                      <span className="bg-gray-800 text-teal-300 text-xs px-3 py-1 rounded-full">Opencv</span>
             </div>
             <a
-              href="#"
+              href="https://github.com/hacknotch/deep_fake-detection"
               className="text-cyan-400 hover:underline text-sm"
             >
               🔗 View Project
