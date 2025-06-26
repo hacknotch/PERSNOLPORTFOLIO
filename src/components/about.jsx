@@ -45,7 +45,7 @@ export default function About() {
 
           {/* Resume Button */}
           <a
-          href="https://docs.google"
+          href="https://tinyurl.com/resume-preetam"
           className="inline-block bg-gradient-to-r from-teal-500 to-cyan-500 hover:from-cyan-500 hover:to-teal-500 text-white font-bold py-3 px-6 rounded-xl shadow-lg transition-all duration-300 hover:scale-105 hover:shadow-cyan-400/50"
         >
           🚀 RESUME 
